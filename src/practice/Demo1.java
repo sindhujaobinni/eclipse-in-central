@@ -8,13 +8,13 @@ public class Demo1
 	{
 		int a = 0;
 		int b = 1;
-		int c;
+		int c ;
 		
-		for (int i=0; i<10; i++)
+		for (int i=0; i<=10; i++)
 		{
-			int c =a+b;
+			// int c = a+b;
 			a =b;
-			b =c;
+		//	b =c;
 		
 		}
 			
