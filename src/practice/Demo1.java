@@ -15,6 +15,7 @@ public class Demo1
 			// int c = a+b;
 			a =b;
 		//	b =c;
+			
 		
 		}
 			
